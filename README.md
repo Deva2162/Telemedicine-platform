@@ -1,4 +1,4 @@
-# Telemedicine-platform
+x# Telemedicine-platform
 
 <div style="display: flex;flex-direction: row; align-items: center; justify-content: center;">
   <img src="https://tele-med-pilot.vercel.app/assets/logo.png" alt="TeleMedPilot Icon" width="100" />
@@ -99,7 +99,7 @@ Special thanks to the TeleMedPilot team for their dedication to building this pl
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/innovay.io/TeleMedPilot.git
+   git clone https://github.com/Deva2162/Telemedicine-platform.git
    ```
 
 2. **Install dependencies:**
