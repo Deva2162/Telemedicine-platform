@@ -159,8 +159,8 @@ This project was both challenging and rewarding, pushing my skills in state mana
 
 ## **Contact Information**
 
-- **Author:** [](https://github.com/Deva2162)
-- **Email:** 
+- **Author:** [Devendra Dhote](https://github.com/Deva2162)
+- **Email:** [devendradhote32@gmail.com]
 
 ---
 
